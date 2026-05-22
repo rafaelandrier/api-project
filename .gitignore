@@ -1,0 +1,23 @@
+# Virtual Environment
+venv/
+.venv/
+Env/
+env/
+
+# Database
+db.sqlite3
+
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local test outputs and artifacts
+pdf_text.txt
+test_output.txt
+clean_output.txt
+test_project.py
+
+# IDEs
+.vscode/
+.idea/
